@@ -13,7 +13,8 @@ const app = express();
 app.use(express.json());
 app.use(cors({
     origin: 'https://assignment-19-e-commerce-site-with-mern.vercel.app', //'http://localhost:5173',
-    credentials: true
+    credentials: true,
+    allowedHeaders: ['Content-Type', 'Authorization', 'x-access-token']     // added to remove error while vercel deployment
 }));
 
 
