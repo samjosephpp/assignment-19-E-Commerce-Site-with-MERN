@@ -18,3 +18,12 @@ https://assignment-19-e-commerce-site-with-mern.vercel.app/
 https://mern-e-commerce-api-usf7.onrender.com
 
 
+
+admin credential
+ "email": "sa@sa.com",
+    "password": "123456789"
+
+user credential
+ "email": "sam@sa.com",
+    "password": "123456789"
+
