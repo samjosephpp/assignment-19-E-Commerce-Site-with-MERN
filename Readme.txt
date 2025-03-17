@@ -7,7 +7,7 @@ CRUD Operations (4 Marks) Implement product management (add, edit, delete produc
 Authentication (3 Marks) Use JWT tokens for secure authentication. Implement protected routes for admin and user access. -------------------------------- 
 Payment Integration (optional) Integrate a payment gateway (test mode). Ensure payment flow is smooth and error-free. ----------------------------- 
 Deployment (4 Marks) Deploy using Vercel.
-
-https://github.com/samjosephpp/assignment-19-Develop-E-Commerce-Site-with-MERN.git
+ 
+https://github.com/samjosephpp/assignment-19-E-Commerce-Site-with-MERN.git
 
 
