@@ -10,4 +10,10 @@ Deployment (4 Marks) Deploy using Vercel.
  
 https://github.com/samjosephpp/assignment-19-E-Commerce-Site-with-MERN.git
 
+---------- Vercel client
+https://assignment-19-e-commerce-site-with-mern.vercel.app/
+
+---------- Render.com server API
+https://mern-e-commerce-api-usf7.onrender.com
+
 

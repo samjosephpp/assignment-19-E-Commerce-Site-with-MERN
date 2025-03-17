@@ -12,7 +12,7 @@ const {orderRouter} = require('./routes/orderRoute');
 const app = express();
 app.use(express.json());
 app.use(cors({
-    origin: 'http://localhost:5173',
+    origin: 'https://assignment-19-e-commerce-site-with-mern.vercel.app', //'http://localhost:5173',
     credentials: true
 }));
 
